@@ -1,0 +1,28 @@
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\bin\Debug\Alarm proje.exe.config
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\bin\Debug\Alarm proje.exe
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\bin\Debug\Alarm proje.pdb
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\obj\Debug\Alarm_proje.Form1.resources
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\obj\Debug\Alarm_proje.Properties.Resources.resources
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\obj\Debug\Alarm proje.csproj.GenerateResource.Cache
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\obj\Debug\Alarm proje.exe
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\obj\Debug\Alarm proje.pdb
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\obj\Debug\Alarm proje.csprojResolveAssemblyReference.cache
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\obj\Debug\Interop.WMPLib.dll
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\obj\Debug\Alarm proje.csproj.ResolveComReference.cache
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\bin\Debug\Interop.WMPLib.dll
+C:\Users\Umut\Desktop\Projeler\Görsel Programlama-II\Alarm proje\Alarm proje\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\bin\Debug\Alarm proje.exe.config
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\obj\Debug\Interop.WMPLib.dll
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\obj\Debug\Alarm proje.csproj.ResolveComReference.cache
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\obj\Debug\Alarm proje.exe
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\obj\Debug\Alarm proje.pdb
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\bin\Debug\Alarm proje.exe
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\bin\Debug\Alarm proje.pdb
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\bin\Debug\Interop.WMPLib.dll
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\obj\Debug\Alarm proje.csprojResolveAssemblyReference.cache
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\obj\Debug\Alarm_proje.Form1.resources
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\obj\Debug\Alarm_proje.Properties.Resources.resources
+C:\Users\Umut\Google Drive\Projeler\Görsel Programlama-II\ÖDEV\alarm ödev\Alarm proje\Alarm proje\obj\Debug\Alarm proje.csproj.GenerateResource.Cache
